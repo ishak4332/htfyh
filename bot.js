@@ -5,7 +5,7 @@ const os = require('os');
 const pidusage = require('pidusage');
 const path = require('path');
 
-const botToken = process.env.BOT_TOKEN || '8232223825:AAGeMqMRvGqdL1vh1RA2ggdbOFfev515bpY';
+const botToken = process.env.BOT_TOKEN || '8232223825:AAHI9R476holfyAcS5yd6mBkcjGFcgGGB_8';
 const ownerId = parseInt(process.env.ADMIN_ID) || 8366132300;
 const ADMIN_ID = ownerId;
 
